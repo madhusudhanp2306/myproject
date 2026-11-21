@@ -1,4 +1,5 @@
 # myproject
-this will be a main git repository  
+This will be a main git repository
+The project name is robotics 
 
 
